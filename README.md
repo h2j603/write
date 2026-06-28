@@ -2,7 +2,8 @@
 
 한국어 문장 첨삭·교정 작업용 리퍼지토리.
 
-「국립현대미술관 출판 지침」과 국립국어원 어문 규범을 기준으로 문장을 다듬고 교정한다.
+국립현대미술관·서울시립미술관 출판/표기 지침과 열린책들 편집 매뉴얼, 국립국어원 어문 규범을
+비교해 **하나의 기준으로 통합**하고, 그 기준으로 문장을 다듬고 교정한다.
 
 ## 사용 방법
 
@@ -18,6 +19,9 @@
 
 ## 기준 출처
 
-- [국립현대미술관 출판 지침 (PDF)](https://www.mmca.go.kr/upload/research/MMCA%20Guide%20to%20Publication_last%20update%20August%202019.pdf)
-- [국립현대미술관 출판 지침 2판](https://www.mmcashop.co.kr/goods/goods_view.php?goodsNo=1000000850)
+- [국립현대미술관 출판 지침 (PDF)](https://www.mmca.go.kr/upload/research/MMCA%20Guide%20to%20Publication_last%20update%20August%202019.pdf) · [2판](https://www.mmcashop.co.kr/goods/goods_view.php?goodsNo=1000000850)
+- [서울시립미술관 소장품 기술지침 (SeMA)](https://sema.seoul.go.kr/)
+- 열린책들 편집 매뉴얼 (열린책들 편집부)
 - 국립국어원 「한글 맞춤법」 · 「표준어 규정」 · 「외래어 표기법」 · 「국어의 로마자 표기법」
+
+세 기준의 차이 비교와 통합 방향은 [`STYLE.md` 부록](./STYLE.md#부록-세-기준-비교)에 정리되어 있다.
